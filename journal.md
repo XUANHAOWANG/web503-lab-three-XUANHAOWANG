@@ -1,0 +1,2 @@
+2020/8/6
+Today I learnt how to use P5.js creat shapes. One of them is quad with rotate. One is a rectangle with rounded corners .last one is two shapes, a cylinder and an ellipsoid, which are 3D shapes and rotate automatically. At the end of study, I found that I am still not familiar with code on git, I think that I should spend more time on how to use these code and practice more.
